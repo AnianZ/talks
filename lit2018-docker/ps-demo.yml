@@ -1,0 +1,19 @@
+version: '3.0'
+
+services:
+  nginx:
+    image: nginx:alpine
+    networks:
+      default:
+        aliases:
+        - nginx
+
+
+  apache:
+    image: httpd:alpine
+    networks:
+      default:
+        aliases:
+        - apache
+
+
