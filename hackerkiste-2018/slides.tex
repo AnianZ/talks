@@ -1,6 +1,9 @@
 \documentclass{beamer}
-\usetheme{metropolis}           % Use metropolis theme
-\setsansfont[
+\usetheme[
+    sectionpage=progressbar,
+    progressbar=foot
+]{metropolis}             % Use metropolis theme
+\setsansfont[	 	  % Fix needed to make fonts work: https://github.com/matze/mtheme/issues/280
     Extension      = .otf,
     UprightFont    = *-Light,
     ItalicFont     = *-LightItalic,
@@ -12,15 +15,37 @@
     UprightFont = *-Regular,
     BoldFont    = *-Medium
 ]{FiraMono}
-\title{A minimal example}
+\usepackage[german]{babel}
+\definecolor{cioDarkBlue}{HTML}{12254c}
+\setbeamercolor{normal text}{%
+    fg=cioDarkBlue,
+    bg=black!2
+}
+
+\title{Was sind Linux Container und wie funktionieren sie?}
 \date{\today}
-\author{Matthias Vogelgesang}
-\institute{Centre for Modern Beamer Themes}
+\author{Anian Ziegler}
+\institute{cioplenu}
 \begin{document}
   \maketitle
-  \section{First Section}
-  \begin{frame}{First Frame}
+  \section{Einführung}
+  \begin{frame}{Was sind Container?}
     Hello, Hackerkiste!
+  \end{frame}
+
+  \section{Betriebssystem Virtualisierung}
+  \begin{frame}{Was sind Container?}
+    Hello, Hackerkiste!
+  \end{frame}
+  \begin{frame}{Was sind Container?}
+    Hello, Hackerkiste!
+  \end{frame}
+  \section{Geschichte}
+  \begin{frame}{Was sind Container?}
+    Hello, Hackerkiste!
+  \end{frame}
+  \begin{frame}[standout]
+    Fragen?
   \end{frame}
 \end{document}
 
