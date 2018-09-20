@@ -1,48 +1,37 @@
-# Vortrag - Linux Container: Ein Einstieg
+# Vortrag - Was sind Linux Container?
 
-## Was vorkommen sollte
+## 1. Begrüßung und kurzer Überblick über den Rest des Vortrages
 
-+ Was ist ein Linux Container und was kann man damit machen?
-  + "Containment": Abgrenzung einer Anwendung von anderen auf dem System ✔
-    + Sicherheitslücken in einer Anwendung geben nicht vollen Zugriff auf das System
-    + Eine Anwendung sieht nur Nutzer, Netzwerke und andere Services die sie selbst braucht ✔
-  + Bündelung einer Anwendungen mit alle ihren Libraries
-    + Keine "dependency hell" bei Paketen mit unterschiedlichen Abhängikeiten
-    + Verschiedene Versionen auf dem gleichen Host System
-  + Portabilität und Repoduszierbarkeit
-    + Aufbau eines Development-Environment. Kein "Works on my machine" mehr
-    + Einheitlichen Deployment von Apps
-+ Container sind kein neues Konzept
-  + chroot
-  + BSD Jails
-  + Solaris Zones
-  + LXC
-+ Wie unterscheiden sich Container von virtuellen Maschinen? ✔
-+ Was ist der technische Hintergrund hinter Containern? ✔
-  + Kernel Control Groups ✔
-  + Kernel Namespaces ✔
-+ Welche Rolle spielen Docker und co?
-  + Vorteile für Entwickler
-  + Standartisierung
-  + Abgrenzung zu LXD
-  + Rocket Container, Garden runc, systemd nspawn und weitere...
-  + Flatpacks und Snaps sind auch Container Formate
-+ Bonus: Was ist Kubernetes, OpenShift, DockerSwarm etc.?
-+ Bonus: Demo mit Docker
+- Kleiner Einblick in den historischen und technischen Hintergrund
 
-## Struktur
+- Genereller Überblick über was der Einsatzzweck von Containern ist
 
-### 1. Begrüßung und kurzer Überblick über den Rest des Vortrages
-  + Das ist kein Docker spezifischer Vortrag, wird sich aber viel mit Docker befassen
-  + Kein Docker Tutorial
-  + Genereller Überblick über was der Einsatzzweck von Containern ist
-  + Kleiner Einblick in den historischen und technischen Hintergrund
-### 2. Was ist ein Container?
-  + Frei nach Wikipedia:
-    > Linux Container ist ein Oberbegriff für die Implementierung von Virtualisierung auf Betriebssystemebene in Linux.
-    > Derzeit existieren eine Reihe solcher Implementierungen, die alle auf den Virtualisierungs-, Isolierungs- und Ressourcenverwaltungsmechanismen des Linux-Kernels basieren.
-  + Mit dem Satz ist eigentlich schon alles gesagt. Aber wir sehen uns die einzelnen Aspekte davon mal genauer an....
-#### 2.1 Virtualisierung auf Betriebssystemebene
+- Docker ist der de-facto Standard für Linux-Container
+
+  - Wer hat schon von Docker gehört?
+  - Wer hat schon mit Docker gearbeitet? 
+
+- Das ist kein Docker spezifischer Vortrag, wird sich aber viel mit Docker befassen
+
+- Kein Docker Tutorial
+
+
+## 2. Was ist ein Container?
+
+  + Sammelbegriff für Virtualisierung auf Betriebssystemebene in Linux.
+  + Basiert auf Virtualisierungs-, Isolierungs- und Ressourcenverwaltungsmechanismen des Linux-Kernels
+  + Emöglicht Anwendungen und ihre Abhängigkeiten einfach von anderen ab zu grenzen, ab zu sichern und portabel zu machen
+
+### 2.1 Exkurs: Hardware-Virtualisierung
+
+* Ein "Hypervisor" genanntes Programm simuliert alle Komponenten eines Computers
+* Diese virtuelle Maschine kann ein beliebiges Betriebssystem ausführen und sieht aus dessen Sicht aus wie ein normaler computer
+* Komplex aber sehr mächtig
+* Hat viel was wir heute "Cloud" nennen möglich gemacht
+* 
+
+### 2.2 Virtualisierung auf Betriebssystemebene
+
   + Ich kann einzelne Prozesse von anderen auf meinem System isolieren "containen"
   + Eine Anwendung in einem Container sieht andere Prozesse in dem Container und nur Resourcen, die im zugeteilt wurden und kann nicht ausbrechen
   + Host Linux kontrolliert die Ressourcen und sieht alle Prozesse
