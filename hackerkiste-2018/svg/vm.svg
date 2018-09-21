@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="634.6965"
+     inkscape:cx="583.98221"
      inkscape:cy="362.19241"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4419"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,20 +124,20 @@
              height="18.18873"
              width="346.48456"
              id="rect815-6-2"
-             style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.56152672;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="fill:#173166;fill-opacity:1;stroke:none;stroke-width:0.56152672;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <flowRoot
              transform="matrix(0.26458333,0,0,0.26458333,131.6174,103.06634)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;"
              id="flowRoot817-1-28"
              xml:space="preserve"><flowRegion
                id="flowRegion819-8-9"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;"><rect
                  y="595.12939"
                  x="62.857143"
                  height="91.428574"
                  width="471.42856"
                  id="rect821-7-73"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000" /></flowRegion><flowPara
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;" /></flowRegion><flowPara
                id="flowPara823-9-6">Hypervisor</flowPara></flowRoot>        </g>
         <g
            id="g830-7"
