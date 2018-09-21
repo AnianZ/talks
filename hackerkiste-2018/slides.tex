@@ -1,20 +1,19 @@
 \documentclass{beamer}
 \usetheme[
-    sectionpage=progressbar,
-    progressbar=foot
+    sectionpage=progressbar
 ]{metropolis}             % Use metropolis theme
-\setsansfont[	 	  % Fix needed to make fonts work: https://github.com/matze/mtheme/issues/280
-    Extension      = .otf,
-    UprightFont    = *-Light,
-    ItalicFont     = *-LightItalic,
-    BoldFont       = *-Regular,
-    BoldItalicFont = *-RegularItalic
-]{FiraSans}
-\setmonofont[
-    Extension   = .otf,
-    UprightFont = *-Regular,
-    BoldFont    = *-Medium
-]{FiraMono}
+%\setsansfont[	 	  % Fix needed to make fonts work: https://github.com/matze/mtheme/issues/280
+%    Extension      = .otf,
+%    UprightFont    = *-Light,
+%    ItalicFont     = *-LightItalic,
+%    BoldFont       = *-Regular,
+%    BoldItalicFont = *-RegularItalic
+%]{FiraSans}
+%\setmonofont[
+%    Extension   = .otf,
+%    UprightFont = *-Regular,
+%    BoldFont    = *-Medium
+%]{FiraMono}
 \usepackage[german]{babel}
 \definecolor{cioDarkBlue}{HTML}{12254c}
 \setbeamercolor{normal text}{%
@@ -27,27 +26,36 @@
 \date{\today}
 \author{Anian Ziegler}
 \institute{cioplenu}
+
 \begin{document}
   \maketitle
-  \section{Einführung}
+  \section{Was ist ein Container?}
   \begin{frame}{Was sind Container?}
-    Hello, Hackerkiste!
+    \begin{itemize}
+      \item Virtualisierung auf Betriebssystemebene
+      \item Basiert auf meheren Features des Linux Kernels
+      \item Isoliert und verpackt Anwendungen
+    \end{itemize}
   \end{frame}
-
-  \section{Betriebssystem Virtualisierung}
-  \begin{frame}{Was sind Container?}
-    Hello, Hackerkiste!
-  \end{frame}
-  \begin{frame}{Was sind Container?}
+  \begin{frame}{Exkurs: Hardware-Virtualisierung}
     \includegraphics[width=\textwidth]{hypervisor}
   \end{frame}
-  \begin{frame}{Was sind Container?}
+  \begin{frame}{Exkurs: Hardware-Virtualisierung}
     \includegraphics[width=\textwidth]{vms}
   \end{frame}
+  \begin{frame}{Virtualisierung auf Betriebssystemebene}
+    ...
+  \end{frame}
+
   \section{Geschichte}
   \begin{frame}{Was sind Container?}
     Hello, Hackerkiste!
   \end{frame}
+
+  \section{Implementierung in Linux}
+  \section{Praktische Anwendung}
+  \section{Vergleich mit VMs}
+
   \begin{frame}[standout]
     Fragen?
   \end{frame}
