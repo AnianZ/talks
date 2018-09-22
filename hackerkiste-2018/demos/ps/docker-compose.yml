@@ -1,0 +1,19 @@
+version: '3.0'
+
+services:
+  nginx:
+    build: ./nginx
+    networks:
+      default:
+        aliases:
+        - nginx
+
+
+  apache:
+    build: ./apache
+    networks:
+      default:
+        aliases:
+        - apache
+
+
