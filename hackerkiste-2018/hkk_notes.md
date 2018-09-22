@@ -18,9 +18,9 @@
 
 ## 2. Was ist ein Container?
 
-  + Sammelbegriff für Virtualisierung auf Betriebssystemebene in Linux.
+  + Sammelbegriff für **Virtualisierung auf Betriebssystemebene** in Linux.
   + Basiert auf Virtualisierungs-, Isolierungs- und Ressourcenverwaltungsmechanismen des Linux-Kernels
-  + Emöglicht Anwendungen und ihre Abhängigkeiten einfach von anderen ab zu grenzen, ab zu sichern und portabel zu machen
+  + Emöglicht Anwendungen und ihre Abhängigkeiten einfach von anderen ab zu grenzen, ab zu sichern und portabel zu machen. (von: "to contain")
 
 ### 2.1 Exkurs: Hardware-Virtualisierung
 
@@ -28,23 +28,25 @@
 * Diese virtuelle Maschine kann ein beliebiges Betriebssystem ausführen und sieht aus dessen Sicht aus wie ein normaler computer
 * Komplex aber sehr mächtig
 * Hat viel was wir heute "Cloud" nennen möglich gemacht
-* 
 
-### 2.2 Virtualisierung auf Betriebssystemebene
+### 2.2 Virtualisierung auf Betriebssystemeben
 
-  + Ich kann einzelne Prozesse von anderen auf meinem System isolieren "containen"
-  + Eine Anwendung in einem Container sieht andere Prozesse in dem Container und nur Resourcen, die im zugeteilt wurden und kann nicht ausbrechen
+* Nicht Hardware-Komponenten sondern Betriebsystem-Features werden virtualisiert
+* Das Betriebssystem/der Kernel stellt Features zur Verfügung um virtuelle Varianten von PIDs, Network-Interfaces, User-IDs etc. zu simulieren
+* Jeder Container bekommt seine eigene Version dieser Ressourcen zugeteilt und sieht die anderen nicht
+* Eine Anwendung in einem Container sieht andere Prozesse in dem Container und nur Resourcen, die im zugeteilt wurden und kann nicht ausbrechen
+* Die Container Engine verwaltet diese Ressourcen und Container
+
   + Host Linux kontrolliert die Ressourcen und sieht alle Prozesse
   + [ ps Demo ] Kommandos
-      + `docker-compose -f ps-demo.yml up -d`
+    + `docker-compose -f ps-demo.yml up -d`
       + `docker-compose -f ps-demo.yml exec nginx sh`
       + `docker-compose -f ps-demo.yml exec apache sh`
       + In beiden Container-shells: `ps -a`
       + Auf dem Host `ps -aux | grep 'PID\|httpd\|nginx'`
-      + Wenn man curl verwenden will `apk add --update curl`
 #### 2.2 Technischer Hintergrund
 
-  + Chroot _Wer hat schon mal Arch Installiert?_
+  + Chroot
     + Erlaubt es einen andern ordner als neues `/` zu setzten und von da aus Befehle aus zu führen
 
     + Nützlich um von einem Live-Image aus den bootloader wieder her zu stellen oder ein passwort neu zu setzen (oder Arch zu installieren)
@@ -55,7 +57,7 @@
 
     + [ DEMO ]
 
-      + ###### ###### ###### ###### Kurz erwähnen, dass es `debootstrap` gibt und `ls` auf `new-root`
+      + Kurz erwähnen, dass es `debootstrap` gibt und `ls` auf `new-root`
 
       + `sudo arch-chroot new-root` 
 
