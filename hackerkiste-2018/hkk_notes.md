@@ -44,9 +44,10 @@
       + `docker-compose -f ps-demo.yml exec apache sh`
       + In beiden Container-shells: `ps -a`
       + Auf dem Host `ps -aux | grep 'PID\|httpd\|nginx'`
-#### 2.2 Technischer Hintergrund
 
-  + Chroot
+### 2.3 Technischer Hintergrund
+
+  + **Chroot**
     + Erlaubt es einen andern ordner als neues `/` zu setzten und von da aus Befehle aus zu führen
 
     + Nützlich um von einem Live-Image aus den bootloader wieder her zu stellen oder ein passwort neu zu setzen (oder Arch zu installieren)
@@ -68,21 +69,21 @@
       + `cowsay "Hallo Linux-Infotag"` 
 
       + außerhalb noch: `sudo du -h -d 1 `
-  + Namespaces:
+  + **Namespaces**:
     + API des Linux Kernel um virtuell System Ressourcen wie Netzwerk Interfaces, Mount points, UserIDs und weitere System Ressourcen zu erstellen
     + Diese Ressourcen können einzelnen Prozessen zugewiesen werden
     + Namespaces können auch für sich genommen verwendet werden. Network Namespaces können zum Beispiel sehr nützlich sein um auf seinem eigenen Rechner virtuelle Netzerk Interfaces zu erstellen und damit ein Netzwerk zu simulieren
     + Beispiel: WLAN-Interface in eigenen Namespace verschieben und nur bestimmten Anwendungen zugänglich machen
     + Coole Dinge mit Wireguard wie allen Traffic durch Wireguard routen
-  + Control Groups
+  + **Control Groups:**
     + management von CPU Zyklen, Arbeitsspeicher oder Netzwerk Bandbreite für Gruppen von Prozessen
     + Prozesse können in ihrem Ressourcenverbrauch eingeschränkt werden
     + Auch seperat Nutzbar
     + cgroup für einen Prozess wie eine DB der viel Abeitsspeicher braucht, bekommt aber nur ein fixes Limit, damit für eine kritische Anwendung noch genug verfügbar ist
     => Zusammen erschaffen dieses Schnittstellen die Grundlage für ein Container System
-#### 2.3 Container sind keine Viruellen Maschinen
+
+### 2.4 Container sind keine Viruellen Maschinen
   + Hauptunterschied: Im Container werden einzelne Userspace-Features virtualisiert. Der Kernel(space) bleibt aber der gleiche. Für die virtuelle Maschine werden physische Ressource simuliert, auf denen dann ein neuer Kernel läuft.
-  + [Bild aus LXD doku]
   + Vorteil Container:
     - Effizienter
     - Einfacher zu managen
@@ -99,21 +100,8 @@
     - Höherer Resosourcenverbrauch
     - Voller Kernel Boot, systemd, ...
     - Ganz oder gar nicht
-### 3. Kurze Geschichte
 
-  + Container sind an sich kein neues Konzept
-  + 1979 - UNIX v7: `chroot` system call, später in BSD
-  + 2000 - FreeBSD Jails (ganz coole Story)
-  + 2001 - Linux Vserver ermöglicht erste virtualisierung auf Betrtriebssystemebene durch Kernel Patching
-  + 2004 - Solaris Zones (ähnlich zu Jails aber mit erweiterten Features, vor allem mit ZFS)
-  + 2007 - Control Groups in den Linux Kernel integriert aus einem Programm bei Google
-  + 2008 - LXC: Linux Userspace tooling cgroups und namespaces
-  + 2013 - Googles lmctfy und Docker -> Container werden einer großen Masse zugänglich 
-    + Durch Docker: Entwicklerfreundliches Tooling, Standartisierung, Packaging durch Images, Docker Hub
-    + Docker ist weit nicht die einzige Möglichkeit Container laufen zu lassen: **LXD**, garden runc, rocket, systemd nspawn...
-    + Auch Technolgiewn wie flatpak und snappy sind container technologien
-  + ... Standartisierung, Orchestration, ....  
-### 4. Praktische Anwendung
+## 3. Praktische Anwendung
 
   + Konsolidierung mehrerer Anwendungen mit kollidierenden Abhängigkeiten, Library Versionen z.B, auf einem System
   + Portable Development Environments. Gegen "Works on My Machine" weil alle die gleiche Version haben
@@ -121,6 +109,22 @@
   + Portabilität nicht nur von Anwendungen sondern von dem gesamten Runtime Environments besonders dank Docker
   + Virtualisierung komplexerer Infrastruktur auf einem Rechner
   + Ermöglicht weitreichende Orchestrierung auf großen Rechner-Clustern mit Failover und großer Skalierung durch Lösungen wie Kubernetes
+
+
+## 4. Kurze Geschichte
+
+- Container sind an sich kein neues Konzept
+- 1979 - UNIX v7: `chroot` system call, später in BSD
+- 2000 - FreeBSD Jails (ganz coole Story)
+- 2001 - Linux Vserver ermöglicht erste virtualisierung auf Betrtriebssystemebene durch Kernel Patching
+- 2004 - Solaris Zones (ähnlich zu Jails aber mit erweiterten Features, vor allem mit ZFS)
+- 2007 - Control Groups in den Linux Kernel integriert aus einem Programm bei Google
+- 2008 - LXC: Linux Userspace tooling cgroups und namespaces
+- 2013 - Googles lmctfy und Docker -> Container werden einer großen Masse zugänglich 
+  - Durch Docker: Entwicklerfreundliches Tooling, Standartisierung, Packaging durch Images, Docker Hub
+  - Docker ist weit nicht die einzige Möglichkeit Container laufen zu lassen: **LXD**, garden runc, rocket, systemd nspawn...
+  - Auch Technolgiewn wie flatpak und snappy sind container technologien
+- ... Standartisierung, Orchestration, ....  
 
 
 
