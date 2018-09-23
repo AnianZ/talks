@@ -16,6 +16,10 @@
 ]{FiraMono}
 
 \usepackage[german]{babel}
+\usepackage{xcolor}
+\newcommand\ytl[2]{
+\parbox[b]{8em}{\hfill{\color{cyan}\bfseries\sffamily #1}~$\cdots\cdots$~}\makebox[0pt][c]{$\bullet$}\vrule\quad \parbox[c]{4.5cm}{\vspace{7pt}\color{red!40!black!80}\raggedright\sffamily #2.\\[7pt]}\\[-3pt]}
+
 
 \definecolor{cioDarkBlue}{HTML}{12254c}
 \setbeamercolor{normal text}{%
@@ -126,14 +130,44 @@ werden
     \end{itemize}
   \end{frame}
    
-  \section{Geschichte}
-  \begin{frame}{Was sind Container?}
-    Hello, Hackerkiste!
+  \section{Container sind keine neue Erfindung}
+  \begin{frame}{Geschichte}
+    \color{gray}
+    \only<1->{\ytl{1979}{UNIX v7: chroot system call, später in BSD}}
+    \only<2->{\ytl{2000}{FreeBSD Jails}}
+    \only<3->{\ytl{2001}{ Linux Vserver ermöglicht erste virtualisierung auf Betrtriebssystemebene durch Kernel Patching}}
+    \only<4->{\ytl{2004}{Solaris Zones}}
+    \only<5->{\ytl{2007}{Control Groups in den Linux Kernel integriert}}
+    \only<6->{\ytl{2008}{LXC: Linux Userspace tooling für cgroups und namespaces}}
+    \bigskip
+  \end{frame}
+  \begin{frame}{Geschichte}
+  \begin{minipage}[t]{\linewidth}
+    \color{gray}
+    \ytl{2013}{\textbf{Docker}
+    \begin{itemize}
+      \item Entwickler Tooling
+      \item Daemon für Container Management
+      \item Standartisierung
+      \item Packaging in Images
+      \item Docker Hub
+    \end{itemize}
+    --> Container werden für viele zugänglich und interessant für Entwickler}
+    \end{minipage}
+  \end{frame}
+  \begin{frame}{Alternativen zu Docker}
+    Docker ist weit nicht die einzige Container-Software auf Linux:
+    \begin{itemize}
+      \item LXD
+      \item Rocket
+      \item systemd nspawn
+      \item Flatpak 
+      \item Snappy
+    \end{itemize}
   \end{frame}
 
-
   \begin{frame}[standout]
-    Fragen?
+    Vielen Dank! Fragen?
   \end{frame}
 \end{document}
 
