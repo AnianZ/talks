@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="fs-tree.svg"
-   inkscape:export-filename="/home/anian/Documents/vorträge/hackerkiste-2018/img/fs-tree.png"
+   inkscape:export-filename="/home/anian/Documents/vorträge/hackerkiste-2018/img/fs-tree-highlight.png"
    inkscape:export-xdpi="299.96188"
    inkscape:export-ydpi="299.96188">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="180.15849"
-     inkscape:cy="242.13088"
+     inkscape:cx="802.68064"
+     inkscape:cy="257.67134"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -86,7 +86,7 @@
        height="9.6376553"
        width="51.512081"
        id="rect1324"
-       style="display:none;fill:#eb811b;fill-opacity:1;stroke:none;stroke-width:0.59229082;stroke-miterlimit:4;stroke-dasharray:0.59229085, 1.18458171;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;fill:#eb811b;fill-opacity:1;stroke:none;stroke-width:0.59229082;stroke-miterlimit:4;stroke-dasharray:0.59229085, 1.18458171;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g1355"
        style="display:inline">
