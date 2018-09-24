@@ -37,11 +37,11 @@
 \begin{document}
 
   \maketitle
-  \section{Was ist ein Container?}
+  \section{Was sind Container?}
   \begin{frame}{Was sind Container?}
     \begin{itemize}[<+->]
       \item \alert<4>{Virtualisierung auf Betriebssystemebene}
-      \item Basiert auf meheren Features des Linux Kernels
+      \item Basiert auf mehreren Features des Linux Kernels
       \item Isoliert und verpackt Anwendungen
     \end{itemize}
   \end{frame}
@@ -57,7 +57,7 @@
     \includegraphics[width=\textwidth]{os-virt}
   \end{frame}
   \begin{frame}{Virtualisierung auf Betriebssystemebene}
-  	\includegraphics[width=\textwidth]{container}
+  	  \includegraphics[width=\textwidth]{container}
   \end{frame}
   \begin{frame}[standout]
     Demo
@@ -77,7 +77,7 @@
     \begin{itemize}
       \item Erlaubt es das root Verzeichnis \texttt{/} neu zu setzen
       \item Ermöglicht verschiedene Versionen eines Tools auf einem System zu installieren
-      \item Sehr Hilfreich zum debugging oder bei der Installation von Linux
+      \item Sehr Hilfreich zum Debugging oder bei der Installation von Linux
       \item \textbf{Aber:} Noch keine Isolierung der Prozesse, User etc. von einander
     \end{itemize}
   \end{frame}
@@ -87,7 +87,7 @@
       \item API des Linux Kernel um \textbf{virtuelle System Ressourcen} wie Netzwerk Interfaces, Mount points, UserIDs und weitere System Ressourcen zu erstellen
       \item Diese Ressourcen können einzelnen Prozessen zugewiesen
 werden
-      \item Können auch für sich genommen verwendet werden: Auf seinem eigenen Rechner mit Network-Namespaces ein Netzwerk zu simulieren
+      \item Können auch für sich genommen verwendet werden. Beispiel: Auf seinem eigenen Rechner mit Network-Namespaces ein Netzwerk simulieren
     \end{itemize}
   \end{frame}
   
@@ -132,14 +132,16 @@ werden
    
   \section{Container sind keine neue Erfindung}
   \begin{frame}{Geschichte}
+  \begin{minipage}[c]{\linewidth}
     \color{gray}
     \only<1->{\ytl{1979}{UNIX v7: chroot system call, später in BSD}}
     \only<2->{\ytl{2000}{FreeBSD Jails}}
-    \only<3->{\ytl{2001}{ Linux Vserver ermöglicht erste virtualisierung auf Betrtriebssystemebene durch Kernel Patching}}
+    \only<3->{\ytl{2001}{Linux Vserver: erste OS-Virtualisierung als Kernel Patch}}
     \only<4->{\ytl{2004}{Solaris Zones}}
     \only<5->{\ytl{2007}{Control Groups in den Linux Kernel integriert}}
-    \only<6->{\ytl{2008}{LXC: Linux Userspace tooling für cgroups und namespaces}}
+    \only<6->{\ytl{2008}{LXC: Linux tooling für cgroups und namespaces}}
     \bigskip
+  \end{minipage}
   \end{frame}
   \begin{frame}{Geschichte}
   \begin{minipage}[t]{\linewidth}
@@ -166,6 +168,13 @@ werden
     \end{itemize}
   \end{frame}
 
+  \begin{frame}[standout]
+    \includegraphics[width=0.7\linewidth]{cio-logo} \\
+    cioplenu.de \\
+    @AnianZ \\
+    \vfill
+    Wir suchen Entwickler und Sysadmins!
+  \end{frame}
   \begin{frame}[standout]
     Vielen Dank! Fragen?
   \end{frame}
