@@ -1,0 +1,80 @@
+# Source: https://github.com/nextcloud/docker/tree/master/.examples/docker-compose/with-nginx-proxy/postgres/fpm
+version: '3'
+
+services:
+  db:
+    image: postgres:9.6
+    restart: always
+    volumes:
+      - /mnt/volume-fra1-03/pgdata:/var/lib/postgresql/data
+    env_file:
+      - db.env
+
+  nextcloud-fpm:
+    image: nextcloud:14.0.0-fpm
+    restart: always
+    volumes:
+      - /mnt/volume-fra1-03/nextcloud:/var/www/html
+    environment:
+      - POSTGRES_HOST=db
+    env_file:
+      - db.env
+    depends_on:
+      - db
+
+  web:
+    build: ./web
+    restart: always
+    volumes:
+      - /mnt/volume-fra1-03/nextcloud:/var/www/html:ro
+    environment:
+      - VIRTUAL_HOST=cloud.cioplenu.de
+      - LETSENCRYPT_HOST=cloud.cioplenu.de
+      - LETSENCRYPT_EMAIL=it@cioplenu.de
+    networks:
+      - proxy-tier
+      - default
+    depends_on:
+      - nextcloud-fpm
+
+  proxy:
+    build: ./proxy
+    restart: always
+    ports:
+      - 80:80
+      - 443:443
+    labels:
+      com.github.jrcs.letsencrypt_nginx_proxy_companion.nginx_proxy: "true"
+    volumes:
+      - certs:/etc/nginx/certs:ro
+      - conf.d:/etc/nginx/conf.d
+      - vhost.d:/etc/nginx/vhost.d
+      - html:/usr/share/nginx/html
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+    networks:
+      - proxy-tier
+
+  letsencrypt-companion:
+    image: jrcs/letsencrypt-nginx-proxy-companion:v1.8.1
+    restart: always
+    volumes:
+      - certs:/etc/nginx/certs
+      - conf.d:/etc/nginx/conf.d
+      - vhost.d:/etc/nginx/vhost.d
+      - html:/usr/share/nginx/html
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    networks:
+      - proxy-tier
+    depends_on:
+      - proxy
+
+volumes:
+  nextcloud:
+  pgdata:
+  html:
+  vhost.d:
+  conf.d:
+  certs:
+
+networks:
+  proxy-tier:

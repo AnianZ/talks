@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="516mm"
+   height="210mm"
+   viewBox="0 0 516 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="comparison.svg"
+   inkscape:export-filename="/home/anian/Documents/vorträge/hackerkiste-2018/img/comparison.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1123.017"
+     inkscape:cy="426.221"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-center="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="1030.36,30.3046"
+     inkscape:measure-end="1917.27,30.3046"
+     inkscape:snap-nodes="false">
+    <sodipodi:guide
+       position="242.45985,165.43984"
+       orientation="1,0"
+       id="guide6151"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.8706136,103.70057"
+       orientation="1,0"
+       id="guide6153"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="84.855654,125.83307"
+       orientation="0,1"
+       id="guide6155"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="287.63988,63.877975"
+       orientation="1,0"
+       id="guide1554"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="204.10714,6.050512"
+       orientation="0,1"
+       id="guide1556"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="521.29014,149.75704"
+       orientation="1,0"
+       id="guide1558"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="412.56101,144.19791"
+       orientation="1,0"
+       id="guide1587"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Hypervisor"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)"
+     style="display:inline">
+    <g
+       transform="translate(-1.2028527e-6,-49.484949)"
+       id="g830-2-9"
+       style="display:inline"
+       inkscape:label="Hypervisor Stack">
+      <g
+         id="g1562">
+        <g
+           id="g830"
+           transform="translate(1.511906,64.226019)"
+           style="fill:#d9d9d9;fill-opacity:1">
+          <rect
+             style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.46159816;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect815"
+             width="234.14146"
+             height="18.188429"
+             x="6.8064842"
+             y="258.01999" />
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot817"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             transform="matrix(0.26458333,0,0,0.26458333,81.82891,103.98388)"><flowRegion
+               id="flowRegion819"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"><rect
+                 id="rect821"
+                 width="471.42856"
+                 height="91.428574"
+                 x="62.857143"
+                 y="595.12939"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+               id="flowPara823">Hardware</flowPara></flowRoot>        </g>
+        <g
+           id="g4419"
+           transform="translate(1.8897441,19.897736)">
+          <rect
+             y="258.03363"
+             x="6.806335"
+             height="18.18873"
+             width="233.76378"
+             id="rect815-6-2"
+             style="fill:#173166;fill-opacity:1;stroke:none;stroke-width:0.46122953;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,75.257011,103.06634)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+             id="flowRoot817-1-28"
+             xml:space="preserve"><flowRegion
+               id="flowRegion819-8-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
+                 y="595.12939"
+                 x="62.857143"
+                 height="91.428574"
+                 width="471.42856"
+                 id="rect821-7-73"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+               id="flowPara823-9-6">Hypervisor</flowPara></flowRoot>        </g>
+        <g
+           id="g830-7"
+           transform="translate(1.511906,42.333434)"
+           style="fill:#d9d9d9;fill-opacity:1">
+          <rect
+             style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.46159816;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect815-0"
+             width="234.14146"
+             height="18.188429"
+             x="6.8064842"
+             y="258.01999" />
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot817-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             transform="matrix(0.26458333,0,0,0.26458333,84.92776,103.72988)"><flowRegion
+               id="flowRegion819-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"><rect
+                 id="rect821-8"
+                 width="471.42856"
+                 height="91.428574"
+                 x="62.857143"
+                 y="595.12939"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+               id="flowPara823-5">Host OS</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <g
+       id="g6102"
+       inkscape:label="Hardware"
+       transform="translate(0,-1.0583333)">
+      <g
+         style="display:inline"
+         inkscape:label="g5478"
+         transform="matrix(35.435389,0,0,35.435389,-4790.577,-7304.1837)"
+         id="g5478">
+        <path
+           inkscape:connector-curvature="0"
+           id="_48328904"
+           transform="matrix(0.00305257,0,0,0.00305257,133.992,210.89211)"
+           d="m 598.97266,180.67969 c -28.40558,0 -51.59961,23.1665 -51.59961,51.60156 v 154.80469 c 0,28.40557 23.16455,51.59765 51.59961,51.59765 h 154.80273 c 28.40885,0 51.60352,-23.1626 51.60352,-51.59765 V 232.28125 c 0,-28.40885 -23.16846,-51.60156 -51.60352,-51.60156 z m 10.31836,28.38281 h 134.16601 c 18.47624,0 33.54102,15.06938 33.54102,33.53906 v 134.16406 c 0,18.47624 -15.06806,33.54297 -33.54102,33.54297 H 609.29102 c -18.47624,0 -33.53907,-15.07001 -33.53907,-33.54297 V 242.60156 c 0,-18.47623 15.06938,-33.53906 33.53907,-33.53906 z"
+           style="clip-rule:evenodd;fill:#173166;fill-opacity:1;fill-rule:evenodd;stroke:#173166;stroke-width:4.54999256;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+        <g
+           id="g5515">
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.66289"
+             y1="211.99496"
+             x2="135.58412"
+             class="fil3 str2"
+             y2="211.99496"
+             id="_48326936" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.66289"
+             y1="211.91615"
+             x2="135.58412"
+             class="fil3 str2"
+             y2="211.91615"
+             id="_48326064" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.66289"
+             y1="211.7587"
+             x2="135.58412"
+             class="fil3 str2"
+             y2="211.7587"
+             id="_47964128" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.66289"
+             y1="211.83739"
+             x2="135.58412"
+             class="fil3 str2"
+             y2="211.83739"
+             id="_47963840" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.66289"
+             y1="211.67987"
+             x2="135.58412"
+             class="fil3 str2"
+             y2="211.67987"
+             id="_47962832" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.66289"
+             y1="211.6011"
+             x2="135.58412"
+             class="fil3 str2"
+             y2="211.6011"
+             id="_47961960" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.66289"
+             y1="212.0737"
+             x2="135.58412"
+             class="fil3 str2"
+             y2="212.0737"
+             id="_47961088" />
+        </g>
+        <g
+           id="g5497">
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.52924"
+             y1="211.99496"
+             x2="136.45047"
+             class="fil3 str2"
+             y2="211.99496"
+             id="_47960216" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.52924"
+             y1="211.91615"
+             x2="136.45047"
+             class="fil3 str2"
+             y2="211.91615"
+             id="_47959344" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.52924"
+             y1="211.7587"
+             x2="136.45047"
+             class="fil3 str2"
+             y2="211.7587"
+             id="_47958472" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.52924"
+             y1="211.83739"
+             x2="136.45047"
+             class="fil3 str2"
+             y2="211.83739"
+             id="_47957600" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.52924"
+             y1="211.67987"
+             x2="136.45047"
+             class="fil3 str2"
+             y2="211.67987"
+             id="_47956728" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.52924"
+             y1="211.6011"
+             x2="136.45047"
+             class="fil3 str2"
+             y2="211.6011"
+             id="_47955856" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.52924"
+             y1="212.0737"
+             x2="136.45047"
+             class="fil3 str2"
+             y2="212.0737"
+             id="_47954984" />
+        </g>
+        <g
+           id="g5506">
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.89915"
+             y1="212.31"
+             x2="135.89915"
+             class="fil3 str2"
+             y2="212.23123"
+             id="_47953976" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.97798"
+             y1="212.31"
+             x2="135.97798"
+             class="fil3 str2"
+             y2="212.23123"
+             id="_47722464" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.13544"
+             y1="212.31"
+             x2="136.13544"
+             class="fil3 str2"
+             y2="212.23123"
+             id="_47722360" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.05675"
+             y1="212.31"
+             x2="136.05675"
+             class="fil3 str2"
+             y2="212.23123"
+             id="_47721952" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.21425"
+             y1="212.31"
+             x2="136.21425"
+             class="fil3 str2"
+             y2="212.23123"
+             id="_47721080" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.29301"
+             y1="212.31"
+             x2="136.29301"
+             class="fil3 str2"
+             y2="212.23123"
+             id="_47720208" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.82043"
+             y1="212.31"
+             x2="135.82043"
+             class="fil3 str2"
+             y2="212.23123"
+             id="_47719336" />
+        </g>
+        <g
+           id="g5488">
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.89912"
+             y1="211.44365"
+             x2="135.89912"
+             class="fil3 str2"
+             y2="211.3649"
+             id="_47718464" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.97795"
+             y1="211.44365"
+             x2="135.97795"
+             class="fil3 str2"
+             y2="211.3649"
+             id="_47717592" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.13541"
+             y1="211.44365"
+             x2="136.13541"
+             class="fil3 str2"
+             y2="211.3649"
+             id="_47716720" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.05672"
+             y1="211.44365"
+             x2="136.05672"
+             class="fil3 str2"
+             y2="211.3649"
+             id="_47715712" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.21422"
+             y1="211.44365"
+             x2="136.21422"
+             class="fil3 str2"
+             y2="211.3649"
+             id="_47214512" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="136.29298"
+             y1="211.44365"
+             x2="136.29298"
+             class="fil3 str2"
+             y2="211.3649"
+             id="_47214224" />
+          <line
+             style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:0.05556859;stroke-linecap:round;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+             x1="135.8204"
+             y1="211.44365"
+             x2="135.8204"
+             class="fil3 str2"
+             y2="211.3649"
+             id="_47213352" />
+        </g>
+        <flowRoot
+           transform="matrix(0.00626394,0,0,0.00626394,131.89405,210.08904)"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.33358765px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#173166;fill-opacity:1;stroke:none"
+           id="flowRoot5517"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.33358765px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#173166;fill-opacity:1"
+             id="flowRegion5519"><rect
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.33358765px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#173166;fill-opacity:1"
+               y="258.31995"
+               x="601.04077"
+               height="46.46703"
+               width="127.27925"
+               id="rect5521" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.33358765px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#173166;fill-opacity:1"
+             id="flowPara5523">CPU</flowPara></flowRoot>      </g>
+      <g
+         style="fill:none"
+         id="g4263"
+         transform="matrix(0.5246952,-1.0811669e-4,1.0811669e-4,0.5246952,55.168762,-74.459925)">
+        <path
+           id="rect2175"
+           sodipodi:nodetypes="cccccccsccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccscccccc"
+           style="fill:none;fill-rule:evenodd;stroke:#173166;stroke-width:3.65545559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           d="M 0.54103247,511.93437 H 196.15134 v 3.94283 3.94284 3.94284 3.94283 3.94284 c 0,0 -2.92403,1.97138 -2.92403,3.94283 0,1.97138 2.92403,3.94284 2.92403,3.94284 v 3.94283 h -3.05649 -3.05649 -3.05649 -3.05649 -3.05648 -3.05649 -3.05649 -3.05649 -3.05649 -3.05649 -3.05649 -3.05649 -3.05648 -3.05649 -3.05649 -3.05649 -3.05649 -3.05649 -3.05649 -3.05648 -3.05649 -3.05649 -3.05649 -3.05649 -3.05649 -3.05649 -3.05649 -3.05648 -3.05649 -3.05649 -3.05649 -3.056489 -3.056489 -3.056489 -3.056489 -3.056488 -3.056489 -3.056489 -3.056488 -3.056489 -3.056489 -3.056489 c 0,0 -1.528244,-2.92403 -3.056488,-2.92403 -1.528245,0 -3.056489,2.92403 -3.056489,2.92403 H 58.609347 55.552859 52.49637 49.439881 46.383392 43.326904 40.270415 37.213926 34.157438 31.100949 28.04446 24.987971 21.931483 18.874994 15.818505 12.762016 9.7055278 6.649039 3.5925503 0.53606161 v -3.94283 c 0,0 2.86511099,-1.97138 2.86511099,-3.94284 0,-1.97138 -2.86511099,-3.94283 -2.86511099,-3.94283 v -3.94284 -3.94283 -3.94284 -3.94284 -3.94283 z" />
+        <flowRoot
+           transform="matrix(0.88166505,1.8167253e-4,-1.8167253e-4,0.88166505,-367.99697,323.55931)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#173166;fill-opacity:1;stroke:none"
+           id="flowRoot5865"
+           xml:space="preserve"><flowRegion
+             style="fill:#173166;fill-opacity:1"
+             id="flowRegion5867"><rect
+               style="fill:#173166;fill-opacity:1"
+               y="203.70079"
+               x="581.42859"
+               height="51.42857"
+               width="125"
+               id="rect5869" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24.19922829px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1"
+             id="flowPara5871">RAM</flowPara></flowRoot>        <rect
+           id="rect4247-7"
+           style="display:inline;fill:#d2d2d2;fill-opacity:1;fill-rule:evenodd;stroke:#173166;stroke-width:3.65503812;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           height="17.69623"
+           width="9.6069012"
+           y="517.68738"
+           x="38.755184" />
+        <rect
+           id="rect4247-9"
+           style="display:inline;fill:#d2d2d2;fill-opacity:1;fill-rule:evenodd;stroke:#173166;stroke-width:3.65503812;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           height="17.69623"
+           width="9.6069012"
+           y="517.68738"
+           x="60.68541" />
+        <rect
+           id="rect4247-0"
+           style="display:inline;fill:#d2d2d2;fill-opacity:1;fill-rule:evenodd;stroke:#173166;stroke-width:3.65503812;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           height="17.69623"
+           width="9.6069012"
+           y="517.68738"
+           x="82.615639" />
+        <rect
+           id="rect4247-4"
+           style="display:inline;fill:#d2d2d2;fill-opacity:1;fill-rule:evenodd;stroke:#173166;stroke-width:3.65503812;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           height="17.69623"
+           width="9.6069012"
+           y="517.68738"
+           x="104.54586" />
+        <rect
+           id="rect4247"
+           style="fill:#d2d2d2;fill-opacity:1;fill-rule:evenodd;stroke:#173166;stroke-width:3.65503764;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           height="17.69623"
+           width="9.6069012"
+           y="517.68738"
+           x="16.824957" />
+        <rect
+           id="rect4247-3"
+           style="display:inline;fill:#d2d2d2;fill-opacity:1;fill-rule:evenodd;stroke:#173166;stroke-width:3.65503812;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           height="17.69623"
+           width="9.6069012"
+           y="517.68738"
+           x="126.47974" />
+      </g>
+      <g
+         style="display:inline;stroke:#173166;stroke-width:5.91496086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,141.36784,157.30714)"
+         id="g2098">
+        <rect
+           x="230.45857"
+           y="101.27856"
+           width="133.12372"
+           height="135.33424"
+           ry="3.5455856"
+           rx="3.6473935"
+           style="fill:none;stroke:#173166;stroke-width:8.65650368;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2052" />
+        <rect
+           x="251.50789"
+           y="101.72313"
+           width="91.679749"
+           height="69.118721"
+           ry="1.8108017"
+           rx="2.5119116"
+           style="fill:none;stroke:#173166;stroke-width:7.26403666;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2054" />
+        <rect
+           x="264.25046"
+           y="197.90254"
+           width="61.750252"
+           height="38.345524"
+           ry="1.5379229"
+           rx="2.2298222"
+           style="fill:#d2d2d2;fill-opacity:1;stroke:#173166;stroke-width:7.26403666;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2056" />
+        <rect
+           x="263.69412"
+           y="197.90254"
+           width="46.729618"
+           height="38.345524"
+           ry="1.5379229"
+           rx="2.2298222"
+           style="fill:#d2d2d2;fill-opacity:1;stroke:#173166;stroke-width:7.26403666;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2060" />
+        <rect
+           x="274.11325"
+           y="207.31085"
+           width="7.5165257"
+           height="19.524149"
+           style="fill:#173166;fill-opacity:1;stroke:#173166;stroke-width:5.00431156;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2058" />
+        <flowRoot
+           transform="matrix(1.4748055,0,0,1.4748055,-1540.6612,-433.59974)"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.33333397px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1;stroke:none"
+           id="flowRoot5938"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.33333397px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1"
+             id="flowRegion5940"><rect
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.33333397px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1"
+               y="378.96277"
+               x="1221.5115"
+               height="56.281998"
+               width="74.653015"
+               id="rect5942" /></flowRegion><flowPara
+             id="flowPara5944">FLOPPY</flowPara></flowRoot>      </g>
+      <g
+         transform="matrix(2.3232798,0,0,2.3232798,-962.77572,-1432.3208)"
+         id="g8506"
+         style="fill:none;stroke:#173166;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#173166;stroke-width:0.76992053;stroke-opacity:1"
+           d="m 486.02921,695.65934 v 15.711 h 11.54881 v -15.711 z"
+           id="path5994"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#d2d2d2;fill-opacity:1;stroke:#173166;stroke-width:0.76992053;stroke-opacity:1"
+           d="m 491.39463,696.91369 c 0.12942,-0.0132 0.27614,0 0.40902,0 2.12606,0 3.84961,1.72354 3.84961,3.8496 0,2.12606 -1.72355,3.8496 -3.84961,3.8496 -2.12606,0 -3.8496,-1.72354 -3.8496,-3.8496 0,-1.99317 1.49942,-3.6525 3.44062,-3.8496 z"
+           id="path5992"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#173166;stroke-width:0.76992053;stroke-opacity:1"
+           d="m 491.56401,699.63151 c -0.51584,0.10779 -0.8931,0.58514 -0.8931,1.13178 0,0.62271 0.50811,1.10676 1.13086,1.10676 0.62271,0 1.10676,-0.48405 1.10676,-1.10676 0,-0.62271 -0.48405,-1.13086 -1.10676,-1.13086 -0.0778,0 -0.16712,-0.0151 -0.2406,0 z"
+           id="path8508"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#d2d2d2;fill-opacity:1;stroke:#173166;stroke-width:0.76992053;stroke-opacity:1"
+           sodipodi:nodetypes="sssssss"
+           d="m 489.57084,705.35779 3.72642,-3.15421 c 0.33116,-0.28031 0.64469,-0.45327 0.76357,-0.33439 0.11888,0.11888 -0.054,0.43246 -0.3344,0.76358 l -3.15421,3.72642 c -0.27826,0.32878 -0.77231,0.32567 -1.04971,0.0483 -0.2774,-0.2774 -0.28051,-0.77146 0.0483,-1.04971 z"
+           id="path8510" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.08401823px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#173166;fill-opacity:1;stroke:none;stroke-width:0.10210045"
+           x="488.06427"
+           y="710.49109"
+           id="text5998"><tspan
+             sodipodi:role="line"
+             id="tspan5996"
+             x="488.06427"
+             y="710.49109"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.08401823px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1;stroke-width:0.10210045">HDD</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g6505"
+       transform="matrix(0.6745416,0,0,1.0046419,2.9861331,-0.93163522)">
+      <rect
+         ry="0.29214764"
+         rx="0.53874356"
+         y="177.68477"
+         x="9.4756136"
+         height="46.032017"
+         width="344.92551"
+         id="rect6029"
+         style="fill:none;fill-opacity:1;stroke:#173166;stroke-width:1.21000004;stroke-miterlimit:0;stroke-dasharray:1.21, 1.21;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="container">
+    <g
+       id="g1552"
+       transform="translate(264.50473,1.3385137e-5)">
+      <g
+         style="display:inline"
+         transform="translate(0,-87)"
+         id="layer1-4"
+         inkscape:label="Container Engine">
+        <g
+           inkscape:label="Hypervisor Stack"
+           style="display:inline"
+           id="g830-2-9-5"
+           transform="translate(-1.2028527e-6,-49.484949)">
+          <g
+             id="g1562-2">
+            <g
+               style="fill:#d9d9d9;fill-opacity:1"
+               transform="translate(1.511906,64.226019)"
+               id="g830-5">
+              <rect
+                 y="258.01999"
+                 x="6.8064842"
+                 height="18.188429"
+                 width="233.65027"
+                 id="rect815-4"
+                 style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.46111366;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <flowRoot
+                 transform="matrix(0.26458333,0,0,0.26458333,81.583312,103.98388)"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+                 id="flowRoot817-7"
+                 xml:space="preserve"><flowRegion
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                   id="flowRegion819-4"><rect
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                     y="595.12939"
+                     x="62.857143"
+                     height="91.428574"
+                     width="471.42856"
+                     id="rect821-4" /></flowRegion><flowPara
+                   id="flowPara823-3">Hardware</flowPara></flowRoot>            </g>
+            <g
+               transform="translate(1.8897441,19.897736)"
+               id="g4419-0">
+              <rect
+                 style="fill:#173166;fill-opacity:1;stroke:none;stroke-width:0.46074468;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="rect815-6-2-7"
+                 width="233.27258"
+                 height="18.18873"
+                 x="6.806335"
+                 y="258.03363" />
+              <flowRoot
+                 xml:space="preserve"
+                 id="flowRoot817-1-28-8"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+                 transform="matrix(0.26458333,0,0,0.26458333,56.11669,103.06634)"><flowRegion
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+                   id="flowRegion819-8-9-6"><rect
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+                     id="rect821-7-73-8"
+                     width="471.42856"
+                     height="91.428574"
+                     x="62.857143"
+                     y="595.12939" /></flowRegion><flowPara
+                   id="flowPara823-9-6-8">Container Engine</flowPara></flowRoot>            </g>
+            <g
+               style="fill:#d9d9d9;fill-opacity:1"
+               transform="translate(1.511906,42.333434)"
+               id="g830-7-4">
+              <rect
+                 y="258.01999"
+                 x="6.8064842"
+                 height="18.188429"
+                 width="233.65027"
+                 id="rect815-0-3"
+                 style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.46111366;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <flowRoot
+                 transform="matrix(0.26458333,0,0,0.26458333,84.682162,103.72988)"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+                 id="flowRoot817-6-1"
+                 xml:space="preserve"><flowRegion
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                   id="flowRegion819-0-4"><rect
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                     y="595.12939"
+                     x="62.857143"
+                     height="91.428574"
+                     width="471.42856"
+                     id="rect821-8-92" /></flowRegion><flowPara
+                   id="flowPara823-5-0">Host OS</flowPara></flowRoot>            </g>
+          </g>
+        </g>
+        <g
+           id="g6505-6"
+           transform="matrix(0.66381935,0,0,1.0048216,3.0821779,-0.9677008)">
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#173166;stroke-width:1.21832073;stroke-miterlimit:0;stroke-dasharray:1.21832072, 1.21832072;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect6029-8"
+             width="349.73965"
+             height="46.02491"
+             x="9.4790602"
+             y="177.68832"
+             rx="0.54626286"
+             ry="0.29210255" />
+        </g>
+        <g
+           transform="matrix(0.97193461,0,0,0.97193461,11.032331,168.46508)"
+           id="g1029">
+          <g
+             id="g1098"
+             transform="matrix(1.0044176,0,0,0.85801398,0.16745009,6.1730101)">
+            <path
+               inkscape:connector-curvature="0"
+               id="path938"
+               style="fill:#d2d2d2;fill-opacity:1;fill-rule:evenodd;stroke:#173166;stroke-width:3.125;stroke-linejoin:round;stroke-opacity:1"
+               d="m 5.3564,9.8635 c -0.5105,0 -0.9398,0.4295 -0.9398,0.9395 L 4.3863,51.489 c 0,0.857 0.6888,1.546 1.5462,1.546 h 36.168 c 0.858,0 1.547,-0.689 1.547,-1.546 V 15.593 c 0,-0.857 -0.689,-1.546 -1.546,-1.546 h -14.28 v -3.244 c 0,-0.51 -0.429,-0.9395 -0.939,-0.9395 H 5.3565 Z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="rect922"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#173166;stroke-width:3.125;stroke-linejoin:round;stroke-opacity:1"
+               d="m 17.754,22.811 c -0.857,0 -1.796,0.644 -2.104,1.444 L 5.092,51.647 c -0.3083,0.8 0.1337,1.444 0.9911,1.444 h 36.173 c 0.857,0 1.796,-0.644 2.104,-1.444 l 10.558,-27.392 c 0.309,-0.8 -0.133,-1.444 -0.991,-1.444 h -36.173 z" />
+          </g>
+          <flowRoot
+             transform="matrix(0.5408548,0,0,0.5408548,-47.456492,-204.20381)"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.00040054px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#173166;fill-opacity:1;stroke:none"
+             id="flowRoot1031"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.00040054px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#173166;fill-opacity:1"
+               id="flowRegion1033"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.00040054px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#173166;fill-opacity:1"
+                 y="429.41507"
+                 x="105.35714"
+                 height="42.857143"
+                 width="62.142857"
+                 id="rect1035" /></flowRegion><flowPara
+               id="flowPara1037">File System</flowPara></flowRoot>        </g>
+        <g
+           style="stroke:none"
+           transform="translate(7.8843162)"
+           id="g1248">
+          <g
+             style="stroke:none"
+             id="g1214"
+             transform="matrix(0.86634516,0,0,0.92174801,6.0530106,14.11612)">
+            <g
+               style="display:inline;fill:#d2d2d2;fill-opacity:1;stroke:none"
+               transform="matrix(0.63210503,0,0,0.63210503,46.530411,161.75163)"
+               id="g1111-9">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4293-4-5"
+                 d="m 51.747856,78.654381 c -2.317159,-0.66856 -4.229348,-1.231898 -4.249316,-1.251842 -0.05794,-0.05797 0.552239,-10.302154 0.69403,-11.651918 0.549525,-5.230628 1.46573,-7.793819 3.602323,-10.077931 1.83956,-1.966537 3.616258,-2.852741 6.675139,-3.329501 1.335449,-0.208142 9.558591,-0.298344 11.540258,-0.12659 3.150412,0.273049 5.163146,0.752213 7.05762,1.680179 0.956191,0.468368 1.339157,0.748411 2.215498,1.620085 2.282747,2.270537 3.335945,5.418182 3.842116,11.482632 0.282468,3.384367 0.603032,10.322878 0.482324,10.439733 -9.616396,3.086678 -24.286505,3.32206 -31.859992,1.215153 z"
+                 style="opacity:1;fill:#d2d2d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12239894;stroke-opacity:1"
+                 sodipodi:nodetypes="cccccsscccc" />
+              <ellipse
+                 ry="9.2882156"
+                 rx="9.8531141"
+                 cy="41.580185"
+                 cx="65.075096"
+                 id="path4295-9-2"
+                 style="opacity:1;fill:#d2d2d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.24233752;stroke-opacity:1" />
+            </g>
+            <g
+               style="display:inline;fill:#d2d2d2;fill-opacity:1;stroke:none"
+               transform="matrix(0.63210503,0,0,0.63210503,71.665827,161.75163)"
+               id="g1111-9-1">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4293-4-5-3"
+                 d="m 51.747856,78.654381 c -2.317159,-0.66856 -4.229348,-1.231898 -4.249316,-1.251842 -0.05794,-0.05797 0.552239,-10.302154 0.69403,-11.651918 0.549525,-5.230628 1.46573,-7.793819 3.602323,-10.077931 1.83956,-1.966537 3.616258,-2.852741 6.675139,-3.329501 1.335449,-0.208142 9.558591,-0.298344 11.540258,-0.12659 3.150412,0.273049 5.163146,0.752213 7.05762,1.680179 0.956191,0.468368 1.339157,0.748411 2.215498,1.620085 2.282747,2.270537 3.335945,5.418182 3.842116,11.482632 0.282468,3.384367 0.603032,10.322878 0.482324,10.439733 -9.616396,3.086678 -24.286505,3.32206 -31.859992,1.215153 z"
+                 style="opacity:1;fill:#d2d2d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12239894;stroke-opacity:1"
+                 sodipodi:nodetypes="cccccsscccc" />
+              <ellipse
+                 ry="9.2882156"
+                 rx="9.8531141"
+                 cy="41.580185"
+                 cx="65.075096"
+                 id="path4295-9-2-0"
+                 style="opacity:1;fill:#d2d2d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.24233752;stroke-opacity:1" />
+            </g>
+            <g
+               style="fill:#173166;fill-opacity:1;stroke:none"
+               transform="matrix(0.63210504,0,0,0.63210504,59.450151,165.52621)"
+               id="g1111">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4293-4"
+                 d="m 51.747856,78.654381 c -2.317159,-0.66856 -4.229348,-1.231898 -4.249316,-1.251842 -0.05794,-0.05797 0.552239,-10.302154 0.69403,-11.651918 0.549525,-5.230628 1.46573,-7.793819 3.602323,-10.077931 1.83956,-1.966537 3.616258,-2.852741 6.675139,-3.329501 1.335449,-0.208142 9.558591,-0.298344 11.540258,-0.12659 3.150412,0.273049 5.163146,0.752213 7.05762,1.680179 0.956191,0.468368 1.339157,0.748411 2.215498,1.620085 2.282747,2.270537 3.335945,5.418182 3.842116,11.482632 0.282468,3.384367 0.603032,10.322878 0.482324,10.439733 -9.616396,3.086678 -24.286505,3.32206 -31.859992,1.215153 z"
+                 style="opacity:1;fill:#173166;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.12239894;stroke-opacity:1"
+                 sodipodi:nodetypes="cccccsscccc" />
+              <ellipse
+                 ry="9.2882156"
+                 rx="9.8531141"
+                 cy="41.580185"
+                 cx="65.075096"
+                 id="path4295-9"
+                 style="opacity:1;fill:#173166;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.24233752;stroke-opacity:1" />
+            </g>
+          </g>
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot1224"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#173166;fill-opacity:1;stroke:none"
+             transform="matrix(0.20342431,0,0,0.20342431,27.645468,115.94723)"><flowRegion
+               id="flowRegion1226"
+               style="fill:#173166;fill-opacity:1;stroke:none"><rect
+                 id="rect1228"
+                 width="155.56349"
+                 height="47.022602"
+                 x="275.41809"
+                 y="478.33118"
+                 style="fill:#173166;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+               id="flowPara1230"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1;stroke:none">User</flowPara></flowRoot>        </g>
+        <g
+           style="display:inline"
+           id="g1306"
+           transform="translate(5.8208336)">
+          <g
+             transform="matrix(0.54596337,0,0,0.54596337,127.46966,177.35661)"
+             inkscape:label="Layer"
+             id="layer2-0"
+             style="fill:none;stroke:#173166;stroke-opacity:1">
+            <rect
+               x="37.437"
+               y="8.6182499"
+               width="20"
+               height="17"
+               style="fill:#d2d2d2;fill-opacity:1;stroke:#173166;stroke-width:3.70639992;stroke-opacity:1"
+               id="rect3771" />
+            <g
+               id="g1287">
+              <path
+                 sodipodi:nodetypes="cc"
+                 id="path2999"
+                 style="fill:none;stroke:#173166;stroke-width:3.51122451;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 inkscape:connector-curvature="0"
+                 d="M 11.732114,35.515 H 82.361187" />
+              <path
+                 id="path3001"
+                 style="fill:none;stroke:#173166;stroke-width:3.75589991;stroke-opacity:1"
+                 inkscape:connector-curvature="0"
+                 d="m 47.437,35.56 v -9" />
+              <path
+                 id="path3001-1"
+                 style="fill:none;stroke:#173166;stroke-width:3.75589991;stroke-opacity:1"
+                 inkscape:connector-curvature="0"
+                 d="m 28.973,44.917 v -9" />
+              <path
+                 id="path3001-1-7"
+                 style="fill:none;stroke:#173166;stroke-width:3.75589991;stroke-opacity:1"
+                 inkscape:connector-curvature="0"
+                 d="m 66.383,45.007 v -9" />
+            </g>
+            <rect
+               x="18.973"
+               y="45.858749"
+               width="20"
+               height="17"
+               style="fill:#d2d2d2;fill-opacity:1;stroke:#173166;stroke-width:3.70639992;stroke-opacity:1"
+               id="rect3771-4" />
+            <rect
+               x="56.382999"
+               y="45.94875"
+               width="20"
+               height="17"
+               style="fill:#d2d2d2;fill-opacity:1;stroke:#173166;stroke-width:3.70639992;stroke-opacity:1"
+               id="rect3771-0" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:7.65244055px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#173166;fill-opacity:1;stroke:none;stroke-width:0.19131099"
+             x="136.91441"
+             y="220.61507"
+             id="text1291"><tspan
+               sodipodi:role="line"
+               id="tspan1289"
+               x="136.91441"
+               y="220.61507"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.65244055px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1;stroke-width:0.19131099">Network</tspan></text>
+        </g>
+        <g
+           transform="translate(6.3500001)"
+           id="g1378">
+          <g
+             transform="matrix(0.15359876,0,0,0.15359876,135.44815,116.8657)"
+             id="layer1-9"
+             inkscape:label="Layer 1"
+             style="display:inline;fill:#173166;fill-opacity:1">
+            <path
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#173166;fill-opacity:1;stroke:none;stroke-width:1.72826505;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               d="m 435.5497,417.54612 c -9.78023,-0.0389 -1.61188,12.86758 -20.3887,14.49018 -22.25412,1.92337 -9.936,-18.27755 -29.76006,-7.98428 -19.82401,10.29358 3.78434,11.84246 -10.59182,28.93887 -14.37579,17.09608 -19.95444,-5.89926 -26.69382,15.39706 -6.73935,21.2963 11.04968,5.69824 12.97304,27.95258 1.92336,22.254 -18.27747,9.9392 -7.98431,29.76343 10.29316,19.82422 11.84296,-3.78447 28.93887,10.5918 17.09625,14.37627 -5.89564,19.95103 15.40044,26.69049 21.29612,6.73944 5.69882,-11.04969 27.95257,-12.97306 22.25416,-1.92335 9.936,18.27758 29.76007,7.98431 19.82403,-10.29326 -3.78429,-11.8428 10.5918,-28.93889 14.37581,-17.09608 19.95444,5.89926 26.69384,-15.39704 6.7394,-21.29631 -11.05304,-5.69825 -12.9764,-27.9526 -1.92335,-22.25436 18.28083,-9.93919 7.98765,-29.76341 -10.29315,-19.82424 -11.84296,3.78445 -28.93885,-10.59181 -17.09625,-14.37594 5.8957,-19.95139 -15.40044,-26.69048 -3.32776,-1.05331 -5.75256,-1.50756 -7.56388,-1.51715 z"
+               id="path4236"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccccscccscsscccc" />
+            <path
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#173166;fill-opacity:1;stroke:none;stroke-width:1.72826517;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               d="m 543.76762,466.4467 c -9.44753,2.52958 1.82208,12.8395 -15.87049,19.33371 -20.96902,7.69712 -14.38505,-15.02874 -30.8123,0.107 -16.42711,15.13603 6.76003,10.43395 -2.62467,30.70434 -9.38439,20.26998 -20.8032,-0.45484 -21.71649,21.86372 -0.91325,22.31856 12.1579,2.59816 19.8551,23.5674 7.69709,20.96889 -15.02782,14.38813 0.10786,30.81558 15.13567,16.42742 10.43439,-6.7603 30.70432,2.62463 20.27027,9.38483 -0.45221,20.79899 21.86614,21.7124 22.31839,0.91339 2.59871,-12.15809 23.56736,-19.85512 20.96905,-7.69714 14.38508,15.02875 30.81233,-0.10698 16.42722,-15.13571 -6.76007,-10.43429 2.62462,-30.70435 9.38443,-20.26999 20.80321,0.45482 21.71653,-21.86374 0.91332,-22.31854 -12.16116,-2.59728 -19.85834,-23.5665 -7.69719,-20.96924 15.03105,-14.38902 -0.10465,-30.81645 -15.13565,-16.42743 -10.43439,6.76029 -30.70431,-2.62465 -20.27017,-9.38448 0.4522,-20.79932 -21.86611,-21.71238 -3.48756,-0.14292 -5.94657,0.0552 -7.6969,0.52139 z"
+               id="path4236-7"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccccsscscscsscccc" />
+            <circle
+               style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:7.82714605;stroke-miterlimit:0;stroke-dasharray:7.8271463, 7.8271463;stroke-dashoffset:0;stroke-opacity:1"
+               id="path1339"
+               cx="420.27835"
+               cy="491.22455"
+               r="33.64822" />
+            <circle
+               style="display:inline;fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:7.82714605;stroke-miterlimit:0;stroke-dasharray:7.82714634, 7.82714634;stroke-dashoffset:0;stroke-opacity:1"
+               id="path1339-0"
+               cx="548.37079"
+               cy="541.55029"
+               r="33.64822" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#173166;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="198.87637"
+             y="220.61549"
+             id="text1337"><tspan
+               sodipodi:role="line"
+               id="tspan1335"
+               x="198.87637"
+               y="220.61549"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.62000036px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1;stroke-width:0.26458332">PIDs</tspan></text>
+        </g>
+      </g>
+      <g
+         style="display:inline"
+         inkscape:label="Container"
+         id="layer2-5">
+        <g
+           transform="translate(0.10023604,21.811911)"
+           id="g1676">
+          <g
+             id="g830-7-6-6-0"
+             transform="matrix(0.3350037,0,0,0.3350037,-1.0355261,-51.962561)"
+             style="display:inline;fill:#d9d9d9;fill-opacity:1">
+            <rect
+               style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect815-0-9-3-4"
+               width="303.42368"
+               height="54.293228"
+               x="39.526455"
+               y="275.41278" />
+            <flowRoot
+               transform="matrix(0.7897923,0,0,0.7897923,103.11802,-183.99655)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot817-6-9-6-87"
+               xml:space="preserve"><flowRegion
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                 id="flowRegion819-0-8-0-1"><rect
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                   y="595.12939"
+                   x="62.857143"
+                   height="91.428574"
+                   width="471.42856"
+                   id="rect821-8-9-4-7" /></flowRegion><flowPara
+                 id="flowPara823-5-3-4-2">Libs</flowPara></flowRoot>          </g>
+          <g
+             id="g830-7-6-9-72"
+             transform="matrix(0.3350037,0,0,0.3350037,-0.90782553,-74.216683)"
+             style="display:inline;fill:#d9d9d9;fill-opacity:1">
+            <rect
+               style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect815-0-9-6-2"
+               width="303.42368"
+               height="54.293228"
+               x="39.526455"
+               y="275.41278" />
+            <flowRoot
+               transform="matrix(0.7897923,0,0,0.7897923,114.01098,-188.49837)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot817-6-9-64-6"
+               xml:space="preserve"><flowRegion
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                 id="flowRegion819-0-8-1-1"><rect
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                   y="595.12939"
+                   x="62.857143"
+                   height="91.428574"
+                   width="471.42856"
+                   id="rect821-8-9-9-0" /></flowRegion><flowPara
+                 id="flowPara823-5-3-8-6">App</flowPara></flowRoot>          </g>
+          <g
+             id="g6481-1">
+            <rect
+               style="display:inline;fill:none;fill-opacity:1;stroke:#173166;stroke-width:1.01279914;stroke-miterlimit:0;stroke-dasharray:1.01279927, 1.01279927;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect6029-2-59"
+               width="107.71633"
+               height="46.778854"
+               x="9.2995443"
+               y="15.069763"
+               rx="0.1682435"
+               ry="0.29688752" />
+            <flowRoot
+               transform="matrix(0.36319775,0,0,0.36319775,-318.95634,-138.78501)"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#173166;fill-opacity:1;stroke:none"
+               id="flowRoot6104-6-7-4"
+               xml:space="preserve"><flowRegion
+                 style="fill:#173166;fill-opacity:1"
+                 id="flowRegion6106-3-3-9"><rect
+                   style="fill:#173166;fill-opacity:1"
+                   y="379.41507"
+                   x="944.28571"
+                   height="137.30977"
+                   width="395.18311"
+                   id="rect6108-8-32-09" /></flowRegion><flowPara
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1"
+                 id="flowPara6112-4-3-1">Container</flowPara></flowRoot>          </g>
+        </g>
+        <g
+           transform="translate(124.44638,21.783759)"
+           id="g1676-7"
+           style="display:inline">
+          <g
+             id="g830-7-6-6-7"
+             transform="matrix(0.3350037,0,0,0.3350037,-1.0355261,-51.962561)"
+             style="display:inline;fill:#d9d9d9;fill-opacity:1">
+            <rect
+               style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect815-0-9-3-0"
+               width="303.42368"
+               height="54.293228"
+               x="39.526455"
+               y="275.41278" />
+            <flowRoot
+               transform="matrix(0.7897923,0,0,0.7897923,103.11802,-183.99655)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot817-6-9-6-0"
+               xml:space="preserve"><flowRegion
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                 id="flowRegion819-0-8-0-0"><rect
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                   y="595.12939"
+                   x="62.857143"
+                   height="91.428574"
+                   width="471.42856"
+                   id="rect821-8-9-4-9-7" /></flowRegion><flowPara
+                 id="flowPara823-5-3-4-8-7">Libs</flowPara></flowRoot>          </g>
+          <g
+             id="g830-7-6-9-7"
+             transform="matrix(0.3350037,0,0,0.3350037,-0.90782553,-74.216683)"
+             style="display:inline;fill:#d9d9d9;fill-opacity:1">
+            <rect
+               style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect815-0-9-6-7"
+               width="303.42368"
+               height="54.293228"
+               x="39.526455"
+               y="275.41278" />
+            <flowRoot
+               transform="matrix(0.7897923,0,0,0.7897923,114.01098,-188.49837)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot817-6-9-64-4-1"
+               xml:space="preserve"><flowRegion
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                 id="flowRegion819-0-8-1-5"><rect
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                   y="595.12939"
+                   x="62.857143"
+                   height="91.428574"
+                   width="471.42856"
+                   id="rect821-8-9-9-3" /></flowRegion><flowPara
+                 id="flowPara823-5-3-8-2">App</flowPara></flowRoot>          </g>
+          <g
+             id="g6481-2">
+            <rect
+               style="display:inline;fill:none;fill-opacity:1;stroke:#173166;stroke-width:1.01279914;stroke-miterlimit:0;stroke-dasharray:1.01279927, 1.01279927;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect6029-2-5"
+               width="107.71633"
+               height="46.778854"
+               x="9.2995443"
+               y="15.069763"
+               rx="0.1682435"
+               ry="0.29688752" />
+            <flowRoot
+               transform="matrix(0.36319775,0,0,0.36319775,-318.95634,-138.78501)"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#173166;fill-opacity:1;stroke:none"
+               id="flowRoot6104-6-7-8"
+               xml:space="preserve"><flowRegion
+                 style="fill:#173166;fill-opacity:1"
+                 id="flowRegion6106-3-3-7"><rect
+                   style="fill:#173166;fill-opacity:1"
+                   y="379.41507"
+                   x="944.28571"
+                   height="137.30977"
+                   width="395.18311"
+                   id="rect6108-8-32-0" /></flowRegion><flowPara
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1"
+                 id="flowPara6112-4-3-5">Container</flowPara></flowRoot>          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="VMs"
+     style="display:inline">
+    <g
+       id="g6194">
+      <g
+         style="display:inline;fill:#d9d9d9;fill-opacity:1"
+         transform="matrix(0.33500369,0,0,0.33500369,-1.0355227,-29.540795)"
+         id="g830-7-6">
+        <rect
+           y="275.41278"
+           x="39.526455"
+           height="54.293228"
+           width="303.42368"
+           id="rect815-0-9"
+           style="fill:#173166;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot817-6-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(0.7897923,0,0,0.7897923,66.101441,-185.14965)"><flowRegion
+             id="flowRegion819-0-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"><rect
+               id="rect821-8-9"
+               width="471.42856"
+               height="91.428574"
+               x="62.857143"
+               y="595.12939"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara823-5-3">Guest OS</flowPara></flowRoot>      </g>
+      <g
+         style="display:inline;fill:#d9d9d9;fill-opacity:1"
+         transform="matrix(0.3350037,0,0,0.3350037,-1.0355261,-51.962561)"
+         id="g830-7-6-6">
+        <rect
+           y="275.41278"
+           x="39.526455"
+           height="54.293228"
+           width="303.42368"
+           id="rect815-0-9-3"
+           style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot817-6-9-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.7897923,0,0,0.7897923,103.11802,-183.99655)"><flowRegion
+             id="flowRegion819-0-8-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"><rect
+               id="rect821-8-9-4"
+               width="471.42856"
+               height="91.428574"
+               x="62.857143"
+               y="595.12939"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara823-5-3-4">Libs</flowPara></flowRoot>      </g>
+      <g
+         style="display:inline;fill:#d9d9d9;fill-opacity:1"
+         transform="matrix(0.3350037,0,0,0.3350037,-0.90782553,-74.216683)"
+         id="g830-7-6-9">
+        <rect
+           y="275.41278"
+           x="39.526455"
+           height="54.293228"
+           width="303.42368"
+           id="rect815-0-9-6"
+           style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot817-6-9-64"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.7897923,0,0,0.7897923,114.01098,-188.49837)"><flowRegion
+             id="flowRegion819-0-8-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"><rect
+               id="rect821-8-9-9"
+               width="471.42856"
+               height="91.428574"
+               x="62.857143"
+               y="595.12939"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara823-5-3-8">App</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g1585"
+       transform="translate(5.6223788,0.6120019)">
+      <g
+         id="g6194-0"
+         transform="translate(119.3152,-0.07746632)">
+        <g
+           id="g830-7-6-90"
+           transform="matrix(0.33500369,0,0,0.33500369,-1.0355227,-29.540795)"
+           style="display:inline;fill:#d9d9d9;fill-opacity:1">
+          <rect
+             style="fill:#173166;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect815-0-9-5"
+             width="303.42368"
+             height="54.293228"
+             x="39.526455"
+             y="275.41278" />
+          <flowRoot
+             transform="matrix(0.7897923,0,0,0.7897923,66.101441,-185.14965)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+             id="flowRoot817-6-9-5"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+               id="flowRegion819-0-8-01"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+                 y="595.12939"
+                 x="62.857143"
+                 height="91.428574"
+                 width="471.42856"
+                 id="rect821-8-9-6" /></flowRegion><flowPara
+               id="flowPara823-5-3-0">Guest OS</flowPara></flowRoot>        </g>
+        <g
+           id="g830-7-6-6-2"
+           transform="matrix(0.3350037,0,0,0.3350037,-1.0355261,-51.962561)"
+           style="display:inline;fill:#d9d9d9;fill-opacity:1">
+          <rect
+             style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect815-0-9-3-8"
+             width="303.42368"
+             height="54.293228"
+             x="39.526455"
+             y="275.41278" />
+          <flowRoot
+             transform="matrix(0.7897923,0,0,0.7897923,103.11802,-183.99655)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot817-6-9-6-8"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+               id="flowRegion819-0-8-0-4"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                 y="595.12939"
+                 x="62.857143"
+                 height="91.428574"
+                 width="471.42856"
+                 id="rect821-8-9-4-9" /></flowRegion><flowPara
+               id="flowPara823-5-3-4-8">Libs</flowPara></flowRoot>        </g>
+        <g
+           id="g830-7-6-9-3"
+           transform="matrix(0.3350037,0,0,0.3350037,-0.90782553,-74.216683)"
+           style="display:inline;fill:#d9d9d9;fill-opacity:1">
+          <rect
+             style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.90787256;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect815-0-9-6-4"
+             width="303.42368"
+             height="54.293228"
+             x="39.526455"
+             y="275.41278" />
+          <flowRoot
+             transform="matrix(0.7897923,0,0,0.7897923,114.01098,-188.49837)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot817-6-9-64-4"
+             xml:space="preserve"><flowRegion
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+               id="flowRegion819-0-8-1-9"><rect
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+                 y="595.12939"
+                 x="62.857143"
+                 height="91.428574"
+                 width="471.42856"
+                 id="rect821-8-9-9-1" /></flowRegion><flowPara
+               id="flowPara823-5-3-8-7">App</flowPara></flowRoot>        </g>
+      </g>
+      <g
+         id="g6489">
+        <rect
+           transform="translate(119.3152,-0.07746632)"
+           ry="0.43447059"
+           rx="0.16791362"
+           y="15.175364"
+           x="9.4051447"
+           height="68.457031"
+           width="107.50513"
+           id="rect6029-2-4"
+           style="display:inline;fill:none;fill-opacity:1;stroke:#173166;stroke-width:1.22399998;stroke-miterlimit:0;stroke-dasharray:1.224, 1.224;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot6104-6-2"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#173166;fill-opacity:1;stroke:none"
+           transform="matrix(0.36319775,0,0,0.36319775,-169.16692,-138.56948)"><flowRegion
+             id="flowRegion6106-3-1"
+             style="fill:#173166;fill-opacity:1"><rect
+               id="rect6108-8-3"
+               width="395.18311"
+               height="137.30977"
+               x="944.28571"
+               y="379.41507"
+               style="fill:#173166;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara6112-4-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1">VM</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g6481">
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#173166;stroke-width:1.22399998;stroke-miterlimit:0;stroke-dasharray:1.224, 1.224;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6029-2"
+         width="107.50513"
+         height="68.457031"
+         x="9.4051447"
+         y="15.175364"
+         rx="0.16791362"
+         ry="0.43447059" />
+      <flowRoot
+         transform="matrix(0.36319775,0,0,0.36319775,-288.48212,-138.49201)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#173166;fill-opacity:1;stroke:none"
+         id="flowRoot6104-6-7"
+         xml:space="preserve"><flowRegion
+           style="fill:#173166;fill-opacity:1"
+           id="flowRegion6106-3-3"><rect
+             style="fill:#173166;fill-opacity:1"
+             y="379.41507"
+             x="944.28571"
+             height="137.30977"
+             width="395.18311"
+             id="rect6108-8-32" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#173166;fill-opacity:1"
+           id="flowPara6112-4-3">VM</flowPara></flowRoot>    </g>
+  </g>
+</svg>
