@@ -1,0 +1,12 @@
+[Interface]
+Address = 10.42.0.2/32
+PrivateKey = ED2KkatF6BBe6i6FmN3ID4z3LEbbxozBaIqd8ki2klQ=
+DNS = 1.1.1.1
+
+# Helsinki
+[Peer]
+PublicKey = DBbYmIG0m8KYDs1cw3igigtZ0EuxqnkjZxQjzt3zUTo=
+Endpoint = 95.217.15.226:51820
+AllowedIPs = 0.0.0.0/0, ::/0
+PersistentKeepalive = 25
+

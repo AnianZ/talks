@@ -1,0 +1,10 @@
+[Interface]
+Address = 10.42.0.2/32
+PrivateKey = ED2KkatF6BBe6i6FmN3ID4z3LEbbxozBaIqd8ki2klQ=
+
+[Peer]
+PublicKey = aaM2XJe06+YymtQAmWzWdrMeDG3+UliAuzgEUgb3KxE=
+Endpoint = 159.69.144.242:51820
+AllowedIPs = 10.42.0.1/32
+PersistentKeepalive = 25
+
